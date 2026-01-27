@@ -1,0 +1,1 @@
+Hi {name}! Your order ({order}) is ready for pickup whenever you're free. Just let me know what time works for you.

@@ -1,0 +1,5 @@
+Customer: Sarah Jones
+Product: Custom Name Sign
+Material: 3mm Birch Plywood
+Due: 2025-01-15
+Notes: Needs gift wrapping

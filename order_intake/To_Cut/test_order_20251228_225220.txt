@@ -1,0 +1,6 @@
+Job ID: test_order_20251228_225220
+Customer: Sarah Jones
+Product: Custom Name Sign
+Material: 3mm Birch Plywood
+Due Date: 2025-01-15
+Notes: Needs gift wrapping

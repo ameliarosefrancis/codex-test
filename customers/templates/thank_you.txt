@@ -1,0 +1,1 @@
+Hi {name}, thank you so much for your order ({order}). I really appreciate your support!
