@@ -1,0 +1,37 @@
+# AmeliaRoseCo Toolkit - Python Dependencies
+# Version: 1.20 | January 31, 2026
+# Python 3.10+ required
+
+# NOTE: This project has NO external dependencies
+# All modules used are part of Python's standard library
+
+# Standard Library Modules (included with Python):
+# - tkinter        : GUI framework (included with Python on Windows)
+# - csv            : CSV file handling
+# - json           : JSON serialization/deserialization
+# - zipfile        : ZIP archive extraction and handling
+# - subprocess     : Execute external processes (module runners)
+# - threading      : Concurrent task execution
+# - logging        : Application logging
+# - pathlib        : Path manipulation
+# - datetime       : Date/time utilities
+# - queue          : Thread-safe message queues
+# - shutil         : High-level file operations
+# - os             : Operating system interfaces
+# - sys            : System-specific parameters
+# - re             : Regular expressions
+
+# To create a virtual environment:
+# python -m venv venv
+#
+# To activate (Windows PowerShell):
+# .\venv\Scripts\Activate.ps1
+#
+# To activate (Windows CMD):
+# .\venv\Scripts\activate.bat
+#
+# To install dependencies (will be no-op as none are external):
+# pip install -r requirements.txt
+#
+# To deactivate:
+# deactivate
